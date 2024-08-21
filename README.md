@@ -19,3 +19,4 @@
 ![概览](概览.png)
 ![内存](内存.png)
 ![GeekBench](GeekBench.png)
+![USB](USB.png)
